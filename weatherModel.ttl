@@ -1,0 +1,450 @@
+@prefix schema:  <http://schema.org/Date#> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wo:      <https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://schema.org/Date#2019-01-20T00:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-20" ;
+      wo:hasEndTime "06:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "00:00:00" ;
+      wo:hasTemperature "-1"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Delvis skyet" ;
+      wo:hasWind "2.0"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-25T07:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-25" ;
+      wo:hasEndTime "13:00:00" ;
+      wo:hasPrecipitation "2.8"^^xsd:double ;
+      wo:hasStartTime "07:00:00" ;
+      wo:hasTemperature "2"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Regn" ;
+      wo:hasWind "5.5"^^xsd:float ;
+      wo:windType "Laber bris" .
+
+<http://schema.org/Date#2019-01-23T19:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-23" ;
+      wo:hasEndTime "01:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "19:00:00" ;
+      wo:hasTemperature "1"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Skyet" ;
+      wo:hasWind "3.1"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-19T18:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-19" ;
+      wo:hasEndTime "00:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "18:00:00" ;
+      wo:hasTemperature "2"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Delvis skyet" ;
+      wo:hasWind "1.6"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-27T13:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-27" ;
+      wo:hasEndTime "19:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "13:00:00" ;
+      wo:hasTemperature "2"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Delvis skyet" ;
+      wo:hasWind "3.3"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-27T01:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-27" ;
+      wo:hasEndTime "07:00:00" ;
+      wo:hasPrecipitation "2.9"^^xsd:double ;
+      wo:hasStartTime "01:00:00" ;
+      wo:hasTemperature "3"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Snø" ;
+      wo:hasWind "4.7"^^xsd:float ;
+      wo:windType "Lett bris" .
+
+<http://schema.org/Date#2019-01-21T18:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-21" ;
+      wo:hasEndTime "00:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "18:00:00" ;
+      wo:hasTemperature "1"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Delvis skyet" ;
+      wo:hasWind "2.9"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-23T13:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-23" ;
+      wo:hasEndTime "19:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "13:00:00" ;
+      wo:hasTemperature "1"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Skyet" ;
+      wo:hasWind "2.9"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-23T07:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-23" ;
+      wo:hasEndTime "13:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "07:00:00" ;
+      wo:hasTemperature "-1"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Skyet" ;
+      wo:hasWind "3.0"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-21T06:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-21" ;
+      wo:hasEndTime "12:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "06:00:00" ;
+      wo:hasTemperature "2"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Lettskyet" ;
+      wo:hasWind "1.7"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-28T07:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-28" ;
+      wo:hasEndTime "13:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "07:00:00" ;
+      wo:hasTemperature "-1"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Delvis skyet" ;
+      wo:hasWind "3.3"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-24T01:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-24" ;
+      wo:hasEndTime "07:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "01:00:00" ;
+      wo:hasTemperature "0"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Skyet" ;
+      wo:hasWind "2.9"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-21T12:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-21" ;
+      wo:hasEndTime "18:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "12:00:00" ;
+      wo:hasTemperature "2"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Lettskyet" ;
+      wo:hasWind "1.5"^^xsd:float ;
+      wo:windType "Flau vind" .
+
+<http://schema.org/Date#2019-01-26T19:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-26" ;
+      wo:hasEndTime "01:00:00" ;
+      wo:hasPrecipitation "2.3"^^xsd:double ;
+      wo:hasStartTime "19:00:00" ;
+      wo:hasTemperature "4"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Regn" ;
+      wo:hasWind "5.2"^^xsd:float ;
+      wo:windType "Lett bris" .
+
+<http://schema.org/Date#2019-01-26T01:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-26" ;
+      wo:hasEndTime "07:00:00" ;
+      wo:hasPrecipitation "3.5"^^xsd:double ;
+      wo:hasStartTime "01:00:00" ;
+      wo:hasTemperature "4"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Sludd" ;
+      wo:hasWind "6.8"^^xsd:float ;
+      wo:windType "Laber bris" .
+
+<http://schema.org/Date#2019-01-24T13:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-24" ;
+      wo:hasEndTime "19:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "13:00:00" ;
+      wo:hasTemperature "2"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Skyet" ;
+      wo:hasWind "2.8"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-24T19:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-24" ;
+      wo:hasEndTime "01:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "19:00:00" ;
+      wo:hasTemperature "1"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Skyet" ;
+      wo:hasWind "2.9"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-21T00:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-21" ;
+      wo:hasEndTime "06:00:00" ;
+      wo:hasPrecipitation "1.3"^^xsd:double ;
+      wo:hasStartTime "00:00:00" ;
+      wo:hasTemperature "2"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Sluddbyger" ;
+      wo:hasWind "1.2"^^xsd:float ;
+      wo:windType "Flau vind" .
+
+<http://schema.org/Date#2019-01-26T07:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-26" ;
+      wo:hasEndTime "13:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "07:00:00" ;
+      wo:hasTemperature "1"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Skyet" ;
+      wo:hasWind "3.6"^^xsd:float ;
+      wo:windType "Lett bris" .
+
+<http://schema.org/Date#2019-01-28T01:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-28" ;
+      wo:hasEndTime "07:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "01:00:00" ;
+      wo:hasTemperature "-1"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Delvis skyet" ;
+      wo:hasWind "3.1"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-26T13:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-26" ;
+      wo:hasEndTime "19:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "13:00:00" ;
+      wo:hasTemperature "2"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Skyet" ;
+      wo:hasWind "4.0"^^xsd:float ;
+      wo:windType "Lett bris" .
+
+<http://schema.org/Date#2019-01-24T07:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-24" ;
+      wo:hasEndTime "13:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "07:00:00" ;
+      wo:hasTemperature "0"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Skyet" ;
+      wo:hasWind "3.1"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-28T13:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-28" ;
+      wo:hasEndTime "19:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "13:00:00" ;
+      wo:hasTemperature "1"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Skyet" ;
+      wo:hasWind "3.1"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-22T07:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-22" ;
+      wo:hasEndTime "13:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "07:00:00" ;
+      wo:hasTemperature "0"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Skyet" ;
+      wo:hasWind "4.3"^^xsd:float ;
+      wo:windType "Lett bris" .
+
+<http://schema.org/Date#2019-01-23T01:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-23" ;
+      wo:hasEndTime "07:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "01:00:00" ;
+      wo:hasTemperature "0"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Skyet" ;
+      wo:hasWind "3.1"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-22T19:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-22" ;
+      wo:hasEndTime "01:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "19:00:00" ;
+      wo:hasTemperature "1"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Skyet" ;
+      wo:hasWind "3.5"^^xsd:float ;
+      wo:windType "Lett bris" .
+
+<http://schema.org/Date#2019-01-22T13:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-22" ;
+      wo:hasEndTime "19:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "13:00:00" ;
+      wo:hasTemperature "1"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Skyet" ;
+      wo:hasWind "3.9"^^xsd:float ;
+      wo:windType "Lett bris" .
+
+<http://schema.org/Date#2019-01-27T19:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-27" ;
+      wo:hasEndTime "01:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "19:00:00" ;
+      wo:hasTemperature "1"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Delvis skyet" ;
+      wo:hasWind "3.5"^^xsd:float ;
+      wo:windType "Lett bris" .
+
+<http://schema.org/Date#2019-01-25T01:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-25" ;
+      wo:hasEndTime "07:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "01:00:00" ;
+      wo:hasTemperature "0"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Delvis skyet" ;
+      wo:hasWind "3.0"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-22T01:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-22" ;
+      wo:hasEndTime "07:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "01:00:00" ;
+      wo:hasTemperature "1"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Skyet" ;
+      wo:hasWind "4.9"^^xsd:float ;
+      wo:windType "Lett bris" .
+
+<http://schema.org/Date#2019-01-20T12:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-20" ;
+      wo:hasEndTime "18:00:00" ;
+      wo:hasPrecipitation "0.6"^^xsd:double ;
+      wo:hasStartTime "12:00:00" ;
+      wo:hasTemperature "2"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Lett regn" ;
+      wo:hasWind "3.5"^^xsd:float ;
+      wo:windType "Lett bris" .
+
+<http://schema.org/Date#2019-01-27T07:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-27" ;
+      wo:hasEndTime "13:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "07:00:00" ;
+      wo:hasTemperature "0"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Skyet" ;
+      wo:hasWind "3.3"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-19T13:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-19" ;
+      wo:hasEndTime "18:00:00" ;
+      wo:hasPrecipitation "0.6"^^xsd:double ;
+      wo:hasStartTime "13:00:00" ;
+      wo:hasTemperature "3"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Sludd" ;
+      wo:hasWind "1.5"^^xsd:float ;
+      wo:windType "Flau vind" .
+
+<http://schema.org/Date#2019-01-20T18:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-20" ;
+      wo:hasEndTime "00:00:00" ;
+      wo:hasPrecipitation "9.8"^^xsd:double ;
+      wo:hasStartTime "18:00:00" ;
+      wo:hasTemperature "3"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Kraftig sludd" ;
+      wo:hasWind "6.1"^^xsd:float ;
+      wo:windType "Laber bris" .
+
+<http://schema.org/Date#2019-01-20T06:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-20" ;
+      wo:hasEndTime "12:00:00" ;
+      wo:hasPrecipitation "0.0"^^xsd:double ;
+      wo:hasStartTime "06:00:00" ;
+      wo:hasTemperature "-1"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Delvis skyet" ;
+      wo:hasWind "1.9"^^xsd:float ;
+      wo:windType "Svak vind" .
+
+<http://schema.org/Date#2019-01-25T19:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-25" ;
+      wo:hasEndTime "01:00:00" ;
+      wo:hasPrecipitation "3.4"^^xsd:double ;
+      wo:hasStartTime "19:00:00" ;
+      wo:hasTemperature "4"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Regn" ;
+      wo:hasWind "5.8"^^xsd:float ;
+      wo:windType "Laber bris" .
+
+<http://schema.org/Date#2019-01-25T13:00:00>
+      a       wo:WeatherCondition ;
+      schema:inDateTime "2019-01-25" ;
+      wo:hasEndTime "19:00:00" ;
+      wo:hasPrecipitation "2.7"^^xsd:double ;
+      wo:hasStartTime "13:00:00" ;
+      wo:hasTemperature "3"^^xsd:int ;
+      wo:hasWeatherCondition
+              "Regn" ;
+      wo:hasWind "5.6"^^xsd:float ;
+      wo:windType "Laber bris" .

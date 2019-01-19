@@ -1,0 +1,10 @@
+#welcomeText {
+    -fx-font-size: 30;
+    -fx-font-family: sans-serif;
+    -fx-text-fill: white;
+    -fx-font-weight: 100;
+}
+
+#root {
+    -fx-background-color: #11161e;
+}

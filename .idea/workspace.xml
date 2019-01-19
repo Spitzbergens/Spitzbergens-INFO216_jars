@@ -1,0 +1,1719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="INFO216.CloRec:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4db3e9c8-0932-4be9-9c22-9f462fddd052" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/ClothindData/semcloth.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClothindData/semcloth.ttl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RDF/RDFController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RDF/RDFController.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="INFO216.SemCBOW" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="YrModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/YrData/YrModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="759">
+              <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeatherQueries.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Queries/WeatherQueries.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1472">
+              <caret line="73" column="41" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClothingRec.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ClothingRecommender/ClothingRec.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1196">
+              <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClothingModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ClothindData/ClothingModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MensClothing.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Models/MensClothing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClothingQueries.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Queries/ClothingQueries.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4048">
+              <caret line="178" column="13" selection-start-line="178" selection-start-column="13" selection-end-line="178" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="semcloth.ttl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ClothindData/semcloth.ttl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GUI/Styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GUIMainController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GUI/GUIMainController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2461">
+              <caret line="128" selection-start-line="128" selection-end-line="128" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UIMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GUI/UIMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>text</find>
+      <find>mandag</find>
+      <find>temp</find>
+      <find>period</find>
+      <find />
+      <find>casual</find>
+      <find>isSuitableForDressingCode</find>
+      <find>coat</find>
+      <find>label</find>
+      <find>winter</find>
+      <find>autum</find>
+      <find>autumn</find>
+      <find>issuitabletobedressedbygenre</find>
+      <find>unisex</find>
+      <find>jacket</find>
+      <find>t-shirt</find>
+      <find>kraf</find>
+      <find>shirt</find>
+      <find>raincoat</find>
+      <find>Sweater</find>
+      <find>sioc</find>
+      <find>muto</find>
+      <find>gr</find>
+      <find>skos</find>
+      <find>sweater</find>
+      <find>xsd</find>
+      <find>dc</find>
+      <find>dbr</find>
+      <find>dbo</find>
+      <find>dbpedia</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/RDFHandler.java" />
+        <option value="$PROJECT_DIR$/src/Yr.java" />
+        <option value="$PROJECT_DIR$/src/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/YrModel.java" />
+        <option value="$PROJECT_DIR$/testModeldag.ttl" />
+        <option value="$PROJECT_DIR$/INFO216.SemCBoW/testtestest.ttl" />
+        <option value="$PROJECT_DIR$/Clothing.ttl" />
+        <option value="$PROJECT_DIR$/src/RDF/RDFReader.java" />
+        <option value="$PROJECT_DIR$/weatherModel.ttl" />
+        <option value="$PROJECT_DIR$/src/GUI/GUIMainFXML.fxml" />
+        <option value="$PROJECT_DIR$/src/Clothing/clothes.json" />
+        <option value="$PROJECT_DIR$/src/Misc/clothing.json" />
+        <option value="$PROJECT_DIR$/src/Misc/clothingJSON.json" />
+        <option value="$PROJECT_DIR$/src/Clothing/ClothingData.java" />
+        <option value="$PROJECT_DIR$/src/Clothing/JSONParser.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/ClothingOntology/semcloth.ttl" />
+        <option value="$PROJECT_DIR$/src/Translator/Translate.java" />
+        <option value="$PROJECT_DIR$/src/Translator/langProp_no.properties" />
+        <option value="$PROJECT_DIR$/src/Translator/langProp_en.properties" />
+        <option value="$PROJECT_DIR$/src/QueriesTemp" />
+        <option value="$PROJECT_DIR$/src/Clothing/ClothingModel.java" />
+        <option value="$PROJECT_DIR$/src/langProp_en.properties" />
+        <option value="$PROJECT_DIR$/src/langProp_no.properties" />
+        <option value="$PROJECT_DIR$/src/GUI/UIMain.java" />
+        <option value="$PROJECT_DIR$/src/Models/Accessories.java" />
+        <option value="$PROJECT_DIR$/src/Models/Clothing.java" />
+        <option value="$PROJECT_DIR$/src/Models/MensClothing.java" />
+        <option value="$PROJECT_DIR$/src/Models/Weather.java" />
+        <option value="$PROJECT_DIR$/src/Models/WomensClothing.java" />
+        <option value="$PROJECT_DIR$/src/Queries/WeatherQueries.java" />
+        <option value="$PROJECT_DIR$/src/ClothingRecommender/ClothingRec.java" />
+        <option value="$PROJECT_DIR$/src/README.md" />
+        <option value="$PROJECT_DIR$/src/GUI/Styles.css" />
+        <option value="$PROJECT_DIR$/src/Queries/ClothingQueries.java" />
+        <option value="$PROJECT_DIR$/src/YrData/Yr.java" />
+        <option value="$PROJECT_DIR$/src/YrData/YrModel.java" />
+        <option value="$PROJECT_DIR$/src/ClothindData/ClothingModel.java" />
+        <option value="$PROJECT_DIR$/src/RDF/RDFController.java" />
+        <option value="$PROJECT_DIR$/src/GUI/GUIMainController.java" />
+        <option value="$PROJECT_DIR$/src/ClothindData/KotlinTest.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="INFO216Clorec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="INFO216Clorec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="INFO216Clorec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="INFO216Clorec" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="INFO216Clorec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="INFO216Clorec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="INFO216Clorec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="INFO216Clorec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ClothindData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="INFO216Clorec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="INFO216Clorec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ClothingRecommender" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="INFO216Clorec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="INFO216Clorec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="INFO216Clorec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="INFO216Clorec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="YrData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="INFO216Clorec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/out /artifacts/CloRec_jar/INFO216.CloRec.jar" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/out /artifacts/INFO216_CloRec_jar" />
+      <recent name="$PROJECT_DIR$/out " />
+      <recent name="$PROJECT_DIR$/src/ClothindData" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.UIMain">
+    <configuration name="UIMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.UIMain" />
+      <module name="INFO216.CloRec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="CloRec.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/CloRec.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="INFO216.CloRec.jar (1)" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/src/INFO216.CloRec.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="INFO216.CloRec.jar (2)" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/INFO216.CloRec.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="INFO216.CloRec.jar (3)" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out /artifacts/INFO216_CloRec_jar/INFO216.CloRec.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out /artifacts/INFO216_CloRec_jar/INFO216.CloRec.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method>
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list>
+      <item itemvalue="JAR Application.INFO216.CloRec.jar (3)" />
+      <item itemvalue="Application.UIMain" />
+      <item itemvalue="JAR Application.INFO216.CloRec.jar (1)" />
+      <item itemvalue="JAR Application.INFO216.CloRec.jar (2)" />
+      <item itemvalue="JAR Application.CloRec.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UIMain" />
+        <item itemvalue="JAR Application.CloRec.jar" />
+        <item itemvalue="JAR Application.INFO216.CloRec.jar (2)" />
+        <item itemvalue="JAR Application.INFO216.CloRec.jar (3)" />
+        <item itemvalue="JAR Application.INFO216.CloRec.jar (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4db3e9c8-0932-4be9-9c22-9f462fddd052" name="Default" comment="" />
+      <created>1521470422254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521470422254</updated>
+      <workItem from="1521470432778" duration="14304000" />
+      <workItem from="1521554068963" duration="16456000" />
+      <workItem from="1521706174686" duration="1148000" />
+      <workItem from="1521708004441" duration="11220000" />
+      <workItem from="1521752055892" duration="8000000" />
+      <workItem from="1522325018371" duration="3984000" />
+      <workItem from="1522746505278" duration="338000" />
+      <workItem from="1522746882733" duration="83000" />
+      <workItem from="1522746997850" duration="2166000" />
+      <workItem from="1522835155894" duration="3753000" />
+      <workItem from="1523348797964" duration="6925000" />
+      <workItem from="1524051723821" duration="44179000" />
+      <workItem from="1524468233257" duration="13904000" />
+      <workItem from="1524496299141" duration="3641000" />
+      <workItem from="1524578871094" duration="36372000" />
+      <workItem from="1525184317145" duration="50037000" />
+      <workItem from="1525425527627" duration="15369000" />
+      <workItem from="1525520091428" duration="42623000" />
+      <workItem from="1525954939848" duration="8000" />
+      <workItem from="1526016476231" duration="139000" />
+      <workItem from="1526361817378" duration="1854000" />
+      <workItem from="1526630793469" duration="8980000" />
+      <workItem from="1526646377416" duration="2001000" />
+      <workItem from="1526649229524" duration="20675000" />
+      <workItem from="1526973066332" duration="12764000" />
+      <workItem from="1527010579166" duration="11608000" />
+      <workItem from="1528557799298" duration="1912000" />
+      <workItem from="1529013856211" duration="804000" />
+      <workItem from="1529015111840" duration="366000" />
+      <workItem from="1529061206185" duration="927000" />
+      <workItem from="1529497628558" duration="59000" />
+      <workItem from="1529659476823" duration="1343000" />
+      <workItem from="1530426541193" duration="19000" />
+      <workItem from="1536517819280" duration="2135000" />
+      <workItem from="1538828779484" duration="88000" />
+      <workItem from="1547894194996" duration="64000" />
+      <workItem from="1547894339680" duration="417000" />
+    </task>
+    <task id="LOCAL-00002" summary="La til ontologi for klær">
+      <created>1521487896664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1521487896664</updated>
+    </task>
+    <task id="LOCAL-00003" summary="API henter nå navn på vind og verdi for vind.">
+      <created>1521540333723</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1521540333723</updated>
+    </task>
+    <task id="LOCAL-00004" summary="API henter tidspunkt. Startet på YrModel, men skriver ingenting nyttig til fil">
+      <created>1521555062773</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1521555062773</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Mappestruktur">
+      <created>1521618990984</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1521618990984</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Værmodell nesten ok">
+      <created>1521627656174</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1521627656175</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Værmodell ok foreløpig og korrekt i følge ontologien til &quot;www.auto.tuwien.ac.at&quot;">
+      <created>1521628457563</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1521628457563</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Værmodell ok for nå.">
+      <created>1521631345642</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1521631345642</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fikset litt i værmodellen">
+      <created>1521633337650</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1521633337650</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Lagt til data om klær som skal løftes">
+      <created>1521706239165</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1521706239165</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Lagt til klær fra JSON-fil til arraylist.">
+      <created>1521713492890</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1521713492891</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Påbegynt modell for klær.">
+      <created>1521719872732</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1521719872732</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Legger til klær og vær-modeller">
+      <created>1523352169548</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1523352169548</updated>
+    </task>
+    <task id="LOCAL-00014" summary="endring i modell">
+      <created>1523352519469</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1523352519469</updated>
+    </task>
+    <task id="LOCAL-00015" summary="endring i modell">
+      <created>1524217920636</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1524217920636</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Laget queries for vær">
+      <created>1524407846466</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1524407846466</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Fått ut ein værmelding ut som et Weather-objekt.">
+      <created>1524425325593</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1524425325593</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Ordnet slik at: &#10;1. Henter ut et værobjekt gitt en en spørring på en viss dato&#10;2. Lagt en metode som lister ut datoene i modellen&#10;3. En siste metode som tar imot et objekt fra den første metoden, gitt alle datoene i den andre metoden. Vi får derfor nå ut en liste med alle værobjekter som vi kan legge inn i GUI. &#10;&#10;Har også ordnet mer på GUIet">
+      <created>1524482319302</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1524482319302</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Lagt til det meste av informasjon om vær i GUIet">
+      <created>1524655849158</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1524655849159</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Lagt til værikoner som samsvarer med været">
+      <created>1524671452731</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1524671452731</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Lagt til værikoner som samsvarer med været">
+      <created>1524676372270</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1524676372270</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Startet på queries for klær">
+      <created>1525194379439</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1525194379439</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Starter med å gjøre objekter ut av klærspørringer.">
+      <created>1525258238059</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1525258238059</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Starter med å gjøre objekter ut av klærspørringer.">
+      <created>1525289836006</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1525289836006</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Begynt å satt forslag til klær i GUI.">
+      <created>1525343465567</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1525343465568</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Forslag til klær er klart. Har lagt en Resourcebundle med oversettelser fra SPARQL-resultatene. Queriene må bli litt bedre, men det er stort sett det som gjenstår.">
+      <created>1525356092780</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1525356092780</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Justers på queries for vær, slik at den kun henter ut tall for nedbør, hvis verdien er over 0.0.">
+      <created>1525421298481</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1525421298481</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Justert queries for klær, som nå tar inn 3 parameter for temperatur, forhold og sesong, og anbefaler klær utifra disse.">
+      <created>1525522096915</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1525522096915</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Fikset opp i spørringene for vær.">
+      <created>1525785247275</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1525785247278</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Fikset opp i spørringene for vær.">
+      <created>1525787930171</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1525787930171</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Fikse i klær">
+      <created>1525799492266</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1525799492270</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Skiftet til switch-statements for leselighet">
+      <created>1525854470543</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1525854470543</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Skiftet til switch-statements for leselighet">
+      <created>1526889928845</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1526889928846</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Nå gjenstår bare Javadoc og rapport.">
+      <created>1526906137986</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1526906137986</updated>
+    </task>
+    <task id="LOCAL-00035" summary="startet på javadoc. laget UML">
+      <created>1526911829780</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1526911829780</updated>
+    </task>
+    <task id="LOCAL-00036" summary="startet på javadoc. laget UML">
+      <created>1526911985879</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1526911985880</updated>
+    </task>
+    <task id="LOCAL-00037" summary="startet på javadoc. laget UML">
+      <created>1526912928561</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1526912928561</updated>
+    </task>
+    <task id="LOCAL-00038" summary="startet på javadoc. laget UML">
+      <created>1526913126551</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1526913126551</updated>
+    </task>
+    <task id="LOCAL-00039" summary="startet på javadoc. laget UML">
+      <created>1526913217942</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1526913217942</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Ferdig med javadoc. Oppdatert UML">
+      <created>1526928114255</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1526928114255</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Tester JAR">
+      <created>1526988296165</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1526988296165</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Tester JAR">
+      <created>1526988593887</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1526988593887</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Tester JAR">
+      <created>1527010642955</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1527010642955</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Tester JAR">
+      <created>1527054794016</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1527054794016</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Tester JAR">
+      <created>1527055082064</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1527055082064</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Tester JAR">
+      <created>1527055758686</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1527055758686</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Tester JAR">
+      <created>1527065667407</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1527065667407</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Tester JAR">
+      <created>1527085372244</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1527085372244</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Tester JAR">
+      <created>1527086488419</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1527086488419</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Ferdig">
+      <created>1527151792556</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1527151792562</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="340665000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.515625" side_tool="true" weight="0.328877" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.64765626" weight="0.15396342" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.29010695" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49339935" visible="true" weight="0.21796875" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.5066007" side_tool="true" weight="0.321875" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49375" weight="0.39728096" />
+      <window_info id="Favorites" order="2" sideWeight="0.50164473" side_tool="true" weight="0.2515625" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.484375" weight="0.3277439" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49765626" visible="true" weight="0.36706948" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.29010695" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49339935" visible="true" weight="0.3296875" />
+      <window_info id="Structure" order="1" sideWeight="0.5066007" side_tool="true" weight="0.321875" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.64765626" visible="true" weight="0.1671123" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49375" weight="0.39839572" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.515625" side_tool="true" weight="0.328877" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49765626" weight="0.3275401" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.484375" weight="0.328877" />
+      <window_info id="Favorites" order="6" sideWeight="0.50164473" side_tool="true" weight="0.2515625" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="Endring i clothingModel" />
+    <MESSAGE value="Startet på GUI" />
+    <MESSAGE value="Fikset i klærmodell. Lagt til et eget array for sko i datafilen, og lagt til i modellen" />
+    <MESSAGE value="Legger til klær og vær-modeller" />
+    <MESSAGE value="endring i modell" />
+    <MESSAGE value="Laget queries for vær" />
+    <MESSAGE value="Fått ut ein værmelding ut som et Weather-objekt." />
+    <MESSAGE value="Ordnet slik at: &#10;1. Henter ut et værobjekt gitt en en spørring på en viss dato&#10;2. Lagt en metode som lister ut datoene i modellen&#10;3. En siste metode som tar imot et objekt fra den første metoden, gitt alle datoene i den andre metoden. Vi får derfor nå ut en liste med alle værobjekter som vi kan legge inn i GUI. &#10;&#10;Har også ordnet mer på GUIet" />
+    <MESSAGE value="Lagt til det meste av informasjon om vær i GUIet" />
+    <MESSAGE value="Lagt til værikoner som samsvarer med været" />
+    <MESSAGE value="Startet på queries for klær" />
+    <MESSAGE value="Starter med å gjøre objekter ut av klærspørringer." />
+    <MESSAGE value="Begynt å satt forslag til klær i GUI." />
+    <MESSAGE value="Forslag til klær er klart. Har lagt en Resourcebundle med oversettelser fra SPARQL-resultatene. Queriene må bli litt bedre, men det er stort sett det som gjenstår." />
+    <MESSAGE value="Justers på queries for vær, slik at den kun henter ut tall for nedbør, hvis verdien er over 0.0." />
+    <MESSAGE value="Justert queries for klær, som nå tar inn 3 parameter for temperatur, forhold og sesong, og anbefaler klær utifra disse." />
+    <MESSAGE value="Fikset opp i spørringene for vær." />
+    <MESSAGE value="Fikse i klær" />
+    <MESSAGE value="Skiftet til switch-statements for leselighet" />
+    <MESSAGE value="Nå gjenstår bare Javadoc og rapport." />
+    <MESSAGE value="startet på javadoc. laget UML" />
+    <MESSAGE value="Ferdig med javadoc. Oppdatert UML" />
+    <MESSAGE value="Tester JAR" />
+    <MESSAGE value="Ferdig" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ferdig" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="29" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Models/Weather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queries/ClothingQueries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5244">
+          <caret line="235" column="13" selection-start-line="235" selection-start-column="13" selection-end-line="235" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queries/WeatherQueries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RDF/RDFController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="47" column="47" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UMLDiagram216.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ClothindData.ClothingModel</OriginalElement>
+          <nodes>
+            <node x="0.0" y="1228.0">GUI.UIMain</node>
+            <node x="460.0" y="22.0">Models.Accessories</node>
+            <node x="763.0" y="0.0">Models.MensClothing</node>
+            <node x="1128.0361328125" y="955.0">GUI.GUIMainController</node>
+            <node x="464.1798828125002" y="693.0">ClothingRecommender.ClothingRec</node>
+            <node x="1187.3691127232141" y="318.5">Models.Weather</node>
+            <node x="1749.5361328125" y="274.0">YrData.Yr</node>
+            <node x="80.0" y="11.0">Models.WomensClothing</node>
+            <node x="1370.0920200892858" y="44.0">RDF.RDFController</node>
+            <node x="44.86077008928601" y="406.5">ClothindData.ClothingModel</node>
+            <node x="1425.475" y="703.5">Queries.WeatherQueries</node>
+            <node x="1760.475" y="737.5">YrData.YrModel</node>
+            <node x="519.6798828125001" y="329.5">Queries.ClothingQueries</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.23494860499265785" x="1012.0" y="651.0" />
+          <SelectedNodes>
+            <node>ClothindData.ClothingModel</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="207">
+            <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/YrData/YrModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2231">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClothindData/ClothingModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QueriesTemp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" selection-start-line="13" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RDF/RDFController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="25" column="62" selection-start-line="21" selection-start-column="11" selection-end-line="25" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queries/ClothingQueries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="65" column="65" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weatherModel.ttl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6762">
+          <caret line="294" column="34" selection-start-line="294" selection-start-column="34" selection-end-line="294" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI/Icons/dist/locales/nb.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Misc/clothing.json" />
+    <entry file="jar://$USER_HOME$/apache-jena-3.6.0/lib/jena-arq-3.6.0.jar!/org/apache/jena/sparql/engine/ResultSetCheckCondition.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clothing/JSONParser.java" />
+    <entry file="file://$PROJECT_DIR$/INFO216.SemCBoW/Clothing/ClothingModel.java" />
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">de</node>
+            <node x="" y="">fxml</node>
+            <node x="" y="">Queries</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">ClothingRecommender</node>
+            <node x="" y="">YrData</node>
+            <node x="" y="">toolbarButtonGraphics</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">apple</node>
+            <node x="" y="">impl</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">java</node>
+            <node x="" y="">RDF</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">etc</node>
+            <node x="" y="">GUI</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">riotcmd</node>
+            <node x="" y="">OSGI-INF</node>
+            <node x="" y="">jena</node>
+            <node x="" y="">arq</node>
+            <node x="" y="">images</node>
+            <node x="" y="">junit</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">org</node>
+            <node x="" y="">ttf</node>
+            <node x="" y="">mozilla</node>
+            <node x="" y="">i18n</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">license</node>
+            <node x="" y="">tdb</node>
+            <node x="" y="">groovy</node>
+            <node x="" y="">tdb2</node>
+            <node x="" y="">Models</node>
+            <node x="" y="">styles</node>
+            <node x="" y="">groovyjarjarcommonscli</node>
+            <node x="" y="">ClothindData</node>
+            <node x="" y="">groovyjarjarantlr</node>
+            <node x="" y="">Main</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.707808564231738" x="371.0" y="419.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/ClothingRecommender.ClothingRec">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ClothingRecommender.ClothingRec</OriginalElement>
+          <nodes>
+            <node x="" y="">ClothingRecommender.ClothingRec</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="61.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/ClothindData">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ClothindData</OriginalElement>
+          <nodes>
+            <node x="" y="">ClothingRecommender</node>
+            <node x="" y="">ClothindData.ClothingModel</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="69.0" y="15.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/ClothindData.ClothingModel">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ClothindData.ClothingModel</OriginalElement>
+          <nodes>
+            <node x="1477.0883547008552" y="1317.0">GUI.UIMain</node>
+            <node x="71.0" y="33.0">Models.MensClothing</node>
+            <node x="475.0" y="55.0">Models.Accessories</node>
+            <node x="1417.5883547008552" y="1061.0">GUI.GUIMainController</node>
+            <node x="566.5050213675217" y="799.0">ClothingRecommender.ClothingRec</node>
+            <node x="1618.088354700855" y="380.0">YrData.Yr</node>
+            <node x="1750.05" y="0.0">Models.Weather</node>
+            <node x="778.0" y="44.0">Models.Clothing</node>
+            <node x="1020.0" y="44.0">Models.WomensClothing</node>
+            <node x="1400.0" y="77.0">RDF.RDFController</node>
+            <node x="90.85291514041546" y="512.5">ClothindData.ClothingModel</node>
+            <node x="1912.088354700855" y="468.0">Queries.WeatherQueries</node>
+            <node x="1671.6654151404155" y="799.0">YrData.YrModel</node>
+            <node x="712.4000000000001" y="413.5">Queries.ClothingQueries</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ClothingRecommender.ClothingRec" target="Models.Weather">
+              <point x="239.8499999999998" y="-81.0" />
+              <point x="1072.8550213675217" y="779.0" />
+              <point x="1431.8903846153846" y="779.0" />
+              <point x="1431.8903846153846" y="360.0" />
+              <point x="1790.9666666666667" y="360.0" />
+              <point x="-204.58333333333326" y="125.0" />
+            </edge>
+            <edge source="GUI.GUIMainController" target="ClothindData.ClothingModel">
+              <point x="-75.75" y="-103.0" />
+              <point x="1493.3383547008552" y="1011.0" />
+              <point x="159.47791514041546" y="1011.0" />
+              <point x="-22.875" y="37.0" />
+            </edge>
+            <edge source="Queries.ClothingQueries" target="Models.Clothing">
+              <point x="21.09999999999991" y="-136.0" />
+              <point x="55.5" y="81.0" />
+            </edge>
+            <edge source="ClothingRecommender.ClothingRec" target="RDF.RDFController">
+              <point x="186.54999999999984" y="-81.0" />
+              <point x="1019.5550213675216" y="769.0" />
+              <point x="1370.2204059829064" y="769.0" />
+              <point x="1370.2204059829064" y="350.0" />
+              <point x="1482.25" y="350.0" />
+              <point x="-35.25" y="48.0" />
+            </edge>
+            <edge source="Queries.ClothingQueries" target="Models.Accessories">
+              <point x="-105.50000000000011" y="-136.0" />
+              <point x="817.9" y="330.0" />
+              <point x="651.875" y="330.0" />
+              <point x="35.375" y="70.0" />
+            </edge>
+            <edge source="Queries.ClothingQueries" target="Models.WomensClothing">
+              <point x="105.49999999999989" y="-136.0" />
+              <point x="1028.9" y="310.0" />
+              <point x="1155.0" y="310.0" />
+              <point x="-45.0" y="81.0" />
+            </edge>
+            <edge source="Queries.WeatherQueries" target="RDF.RDFController">
+              <point x="-57.59999999999991" y="-81.5" />
+              <point x="1998.488354700855" y="300.0" />
+              <point x="1623.25" y="300.0" />
+              <point x="105.75" y="48.0" />
+            </edge>
+            <edge source="GUI.GUIMainController" target="Queries.WeatherQueries">
+              <point x="119.03571428571422" y="-103.0" />
+              <point x="1688.1240689865695" y="1031.0" />
+              <point x="2138.0" y="1031.0" />
+              <point x="2138.0" y="779.0" />
+              <point x="2164.0883547008552" y="779.0" />
+              <point x="108.0" y="81.5" />
+            </edge>
+            <edge source="ClothingRecommender.ClothingRec" target="ClothindData.ClothingModel">
+              <point x="-239.85000000000025" y="-81.0" />
+              <point x="593.1550213675215" y="779.0" />
+              <point x="205.22791514041546" y="779.0" />
+              <point x="22.875" y="37.0" />
+            </edge>
+            <edge source="GUI.GUIMainController" target="RDF.RDFController">
+              <point x="32.46428571428578" y="-103.0" />
+              <point x="1601.552640415141" y="1041.0" />
+              <point x="1585.588354700855" y="1041.0" />
+              <point x="1585.588354700855" y="340.0" />
+              <point x="1529.25" y="340.0" />
+              <point x="11.75" y="48.0" />
+            </edge>
+            <edge source="Queries.ClothingQueries" target="RDF.RDFController">
+              <point x="147.69999999999993" y="-136.0" />
+              <point x="1071.1" y="320.0" />
+              <point x="1411.75" y="320.0" />
+              <point x="-105.75" y="48.0" />
+            </edge>
+            <edge source="Queries.WeatherQueries" target="Models.Weather">
+              <point x="115.19999999999982" y="-81.5" />
+              <point x="2171.288354700855" y="270.0" />
+              <point x="2118.3" y="270.0" />
+              <point x="122.75" y="125.0" />
+            </edge>
+            <edge source="GUI.GUIMainController" target="Models.Weather">
+              <point x="140.67857142857133" y="-103.0" />
+              <point x="1709.7669261294263" y="1041.0" />
+              <point x="2210.588354700855" y="1041.0" />
+              <point x="2210.588354700855" y="360.0" />
+              <point x="2200.133333333333" y="360.0" />
+              <point x="204.58333333333348" y="125.0" />
+            </edge>
+            <edge source="ClothingRecommender.ClothingRec" target="Models.Accessories">
+              <point x="-79.95000000000016" y="-81.0" />
+              <point x="753.0550213675216" y="749.0" />
+              <point x="581.125" y="749.0" />
+              <point x="-35.375" y="70.0" />
+            </edge>
+            <edge source="GUI.GUIMainController" target="Models.WomensClothing">
+              <point x="-10.821428571428669" y="-103.0" />
+              <point x="1558.2669261294263" y="981.0" />
+              <point x="1455.9653846153847" y="981.0" />
+              <point x="1455.9653846153847" y="310.0" />
+              <point x="1335.0" y="310.0" />
+              <point x="135.0" y="81.0" />
+            </edge>
+            <edge source="GUI.GUIMainController" target="Models.MensClothing">
+              <point x="-140.67857142857156" y="-103.0" />
+              <point x="1428.4097832722837" y="1041.0" />
+              <point x="0.0" y="1041.0" />
+              <point x="0.0" y="350.0" />
+              <point x="119.0" y="350.0" />
+              <point x="-144.0" y="92.0" />
+            </edge>
+            <edge source="YrData.YrModel" target="YrData.Yr">
+              <point x="0.0" y="-81.0" />
+              <point x="1804.6654151404155" y="779.0" />
+              <point x="1822.838354700855" y="779.0" />
+              <point x="68.25" y="169.5" />
+            </edge>
+            <edge source="YrData.YrModel" target="Models.Weather">
+              <point x="38.0" y="-81.0" />
+              <point x="1842.6654151404155" y="759.0" />
+              <point x="1901.588354700855" y="759.0" />
+              <point x="1901.588354700855" y="360.0" />
+              <point x="1872.8" y="360.0" />
+              <point x="-122.75" y="125.0" />
+            </edge>
+            <edge source="Queries.ClothingQueries" target="Models.MensClothing">
+              <point x="-147.70000000000005" y="-136.0" />
+              <point x="775.7" y="340.0" />
+              <point x="407.0" y="340.0" />
+              <point x="144.0" y="92.0" />
+            </edge>
+            <edge source="GUI.UIMain" target="GUI.GUIMainController">
+              <point x="0.0" y="-36.5" />
+              <point x="0.0" y="103.0" />
+            </edge>
+            <edge source="ClothingRecommender.ClothingRec" target="Models.WomensClothing">
+              <point x="79.94999999999982" y="-81.0" />
+              <point x="912.9550213675216" y="749.0" />
+              <point x="1268.0" y="749.0" />
+              <point x="1268.0" y="310.0" />
+              <point x="1245.0" y="310.0" />
+              <point x="45.0" y="81.0" />
+            </edge>
+            <edge source="ClothingRecommender.ClothingRec" target="Models.MensClothing">
+              <point x="-133.2500000000001" y="-81.0" />
+              <point x="699.7550213675216" y="759.0" />
+              <point x="293.79041514041546" y="759.0" />
+              <point x="293.79041514041546" y="350.0" />
+              <point x="215.0" y="350.0" />
+              <point x="-48.0" y="92.0" />
+            </edge>
+            <edge source="GUI.GUIMainController" target="YrData.YrModel">
+              <point x="75.75" y="-103.0" />
+              <point x="1644.8383547008552" y="1011.0" />
+              <point x="1871.1654151404155" y="1011.0" />
+              <point x="66.5" y="81.0" />
+            </edge>
+            <edge source="GUI.GUIMainController" target="ClothingRecommender.ClothingRec">
+              <point x="-54.10714285714289" y="-103.0" />
+              <point x="1514.9812118437121" y="1001.0" />
+              <point x="699.7550213675217" y="1001.0" />
+              <point x="-133.25" y="81.0" />
+            </edge>
+            <edge source="GUI.GUIMainController" target="Models.Accessories">
+              <point x="-119.03571428571422" y="-103.0" />
+              <point x="1450.052640415141" y="1031.0" />
+              <point x="80.35291514041569" y="1031.0" />
+              <point x="80.35291514041569" y="360.0" />
+              <point x="510.375" y="360.0" />
+              <point x="-106.125" y="70.0" />
+            </edge>
+            <edge source="YrData.YrModel" target="RDF.RDFController">
+              <point x="-114.0" y="-81.0" />
+              <point x="1690.6654151404155" y="779.0" />
+              <point x="1596.588354700855" y="779.0" />
+              <point x="1596.588354700855" y="330.0" />
+              <point x="1552.75" y="330.0" />
+              <point x="35.25" y="48.0" />
+            </edge>
+            <edge source="ClothingRecommender.ClothingRec" target="Queries.ClothingQueries">
+              <point x="-26.650000000000205" y="-81.0" />
+              <point x="806.3550213675215" y="779.0" />
+              <point x="817.9000000000001" y="779.0" />
+              <point x="-105.5" y="136.0" />
+            </edge>
+            <edge source="YrData.YrModel" target="Queries.WeatherQueries">
+              <point x="114.0" y="-81.0" />
+              <point x="1918.6654151404155" y="779.0" />
+              <point x="2020.088354700855" y="779.0" />
+              <point x="-36.0" y="81.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.3305027792512354" x="540.0" y="706.0" />
+          <SelectedNodes>
+            <node>ClothindData.ClothingModel</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Models/Clothing.java" />
+    <entry file="file://$PROJECT_DIR$/src/Models/WomensClothing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/varsel.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1679">
+          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/varsel.xml" />
+    <entry file="file://$PROJECT_DIR$/INFO216.SemCBoW/YrData/YrModel.java" />
+    <entry file="file://$PROJECT_DIR$/INFO216.SemCBoW/YrData/Yr.java" />
+    <entry file="file://$PROJECT_DIR$/INFO216.SemCBoW/GUI/GUIMainController.java" />
+    <entry file="file://$PROJECT_DIR$/src/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1208" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Models/Accessories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UMLDiagram216.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ClothindData.ClothingModel</OriginalElement>
+          <nodes>
+            <node x="0.0" y="1228.0">GUI.UIMain</node>
+            <node x="460.0" y="22.0">Models.Accessories</node>
+            <node x="763.0" y="0.0">Models.MensClothing</node>
+            <node x="1128.0361328125" y="955.0">GUI.GUIMainController</node>
+            <node x="464.1798828125002" y="693.0">ClothingRecommender.ClothingRec</node>
+            <node x="1187.3691127232141" y="318.5">Models.Weather</node>
+            <node x="1749.5361328125" y="274.0">YrData.Yr</node>
+            <node x="80.0" y="11.0">Models.WomensClothing</node>
+            <node x="1370.0920200892858" y="44.0">RDF.RDFController</node>
+            <node x="44.86077008928601" y="406.5">ClothindData.ClothingModel</node>
+            <node x="1425.475" y="703.5">Queries.WeatherQueries</node>
+            <node x="1760.475" y="737.5">YrData.YrModel</node>
+            <node x="519.6798828125001" y="329.5">Queries.ClothingQueries</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.23494860499265785" x="1012.0" y="651.0" />
+          <SelectedNodes>
+            <node>ClothindData.ClothingModel</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/javafx.fxml/javafx/fxml/FXMLLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-365">
+          <caret line="2601" selection-start-line="2601" selection-end-line="2601" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Models/Weather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RDF/RDFController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/YrData/Yr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-977">
+          <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QueriesTemp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="207">
+            <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weatherModel.ttl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2277">
+          <caret line="99" column="8" selection-start-line="99" selection-start-column="8" selection-end-line="99" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClothindData/semcloth.ttl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI/UIMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/YrData/YrModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queries/WeatherQueries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1472">
+          <caret line="73" column="41" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Models/MensClothing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queries/ClothingQueries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4048">
+          <caret line="178" column="13" selection-start-line="178" selection-start-column="13" selection-end-line="178" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClothingRecommender/ClothingRec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClothindData/KotlinTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#22#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UMLDiagram216.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClothindData/ClothingModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI/Styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI/GUIMainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2461">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="artifact" />
+              <type id="jpa-descriptors" />
+              <type id="library" />
+              <type id="javaee-facet-resources" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>INFO216.CloRec:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CloRec|INFO216</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jena-cmds-3.6.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

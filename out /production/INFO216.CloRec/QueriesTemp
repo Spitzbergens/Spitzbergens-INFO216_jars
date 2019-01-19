@@ -1,0 +1,88 @@
+SELECT ?accessoryLabel ?conditionLabel ?seasonLabel WHERE {
+ ?accessory rdfs:subClassOf sc:Accessory;
+			rdfs:label ?accessoryLabel;
+			sc:isSuitableToBeDressedOnWeather ?weather;
+           sc:isSuitableToBeDressedInSeason ?season.
+             ?weather rdfs:label ?conditionLabel.
+              ?season rdfs:label ?seasonLabel.
+
+             FILTER (?conditionLabel = "Wet"  && ?seasonLabel = "Spring" )
+
+}
+
+
+SELECT ?mensClothing ?shoeLabel ?conditionLabel ?seasonLabel
+                WHERE
+
+                  ?garment rdfs:subClassOf dbr:ClothindData;
+                     sc:isSuitableToBeDressedInSeason ?season;
+                            rdfs:label ?mensClothing;
+                            sc:isSuitableToBeDressedOnWeather ?condition;
+                            sc:isSuitableToBeDressedByGenre dbr:Male.
+
+                  ?shoes rdfs:subClassOf sc:Shoes;
+                         rdfs:label ?shoeLabel;
+                         sc:isSuitableToBeDressedByGenre dbr:Male;
+                         sc:isSuitableToBeDressedOnWeather ?condition;
+                         sc:isSuitableToBeDressedInSeason ?season.
+
+                ?season rdfs:label ?seasonLabel.
+                ?condition rdfs:label ?conditionLabel.
+
+               FILTER (?conditionLabel =  && ?seasonLabel = )
+                }
+
+
+                SELECT ?temperature ?condition ?windSpeed ?windType ?precipitation ?dateTime
+                WHERE {
+                schema:2018-05-04 a we:WeatherCondition;
+                we:hasObservationTime ?time;
+                we:hasTemperature ?temperature;
+                                we:hasWeatherCondition ?condition;
+                                we:hasWind ?windSpeed;
+                                we:windType ?windType;
+                                schema:inDateTime ?dateTime.
+                                OPTIONAL {schema:2018-05-04 we:hasPrecipitation ?precipitation}
+
+                    FILTER (?time != "00:00:00" && ?percipitation > 0.0)
+                                } ORDER BY ?time
+
+
+            SELECT ?time ?temperature ?condition ?windSpeed ?windType ?precipitation ?dateTime
+            WHERE {
+               schema:2018-05-04 a we:WeatherCondition;
+                            we:hasObservationTime ?time;
+                            we:hasTemperature ?temperature;
+                            we:hasWeatherCondition ?condition;
+                            we:hasWind ?windSpeed;
+                            we:windType ?windType;
+                            schema:inDateTime ?dateTime.
+             OPTIONAL {schema:2018-05-04 we:hasPrecipitation ?precipitation}
+
+              FILTER (?time != "00:00:00" && ?precipitation > 0)
+            } ORDER BY ?time
+
+
+
+
+            SELECT ?mensClothing ?shoeLabel ?conditionLabel ?heatConditionLabel ?seasonLabel
+            WHERE{
+                  ?garment rdfs:subClassOf dbr:ClothindData;
+                            sc:isSuitableToBeDressedInSeason ?season;
+                            rdfs:label ?mensClothing;
+                            sc:isSuitableToBeDressedOnWeather ?condition;
+                            sc:isSuitableToBeDressedOnWeather ?heatCondition;
+                            sc:isSuitableToBeDressedByGenre dbr:Male.
+
+                  ?shoes rdfs:subClassOf sc:Shoes;
+                   		 rdfs:label ?shoeLabel;
+                         sc:isSuitableToBeDressedByGenre dbr:Male;
+                         sc:isSuitableToBeDressedOnWeather ?condition;
+                         sc:isSuitableToBeDressedOnWeather ?heatCondition;
+                         sc:isSuitableToBeDressedInSeason ?season.
+
+                ?season rdfs:label ?seasonLabel.
+                 ?condition rdfs:label ?conditionLabel.
+              	?heatCondition rdfs:label ?heatConditionLabel.
+
+             FILTER (?heatConditionLabel = "Hot" && ?conditionLabel = "Cloudy" && ?seasonLabel = "Summer" )

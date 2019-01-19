@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" id="anchorpane" fx:id="parent" prefHeight="682.0" prefWidth="1110.0" style="-fx-background-color: #ffffff#ffffff;" stylesheets="@Styles.css" xmlns="http://javafx.com/javafx/9.0.4" fx:controller="GUI.GUIMainController">
+   <children>
+      <Label layoutX="75.0" layoutY="15.0" opacity="0.47" prefHeight="42.0" prefWidth="108.0" text="CloRec" textFill="#545454">
+         <font>
+            <Font name="Futura Medium" size="27.0" />
+         </font>
+      </Label>
+      <Label layoutX="294.0" layoutY="76.0" prefHeight="45.0" prefWidth="584.0" text="Været i Bergen, og hva du bør ha på deg " textFill="#545454">
+         <font>
+            <Font name="Heiti TC Light" size="27.0" />
+         </font>
+      </Label>
+      <HBox alignment="CENTER" layoutX="10.0" layoutY="214.0" prefHeight="424.0" prefWidth="1097.0" spacing="15.0" AnchorPane.leftAnchor="10.0">
+         <children>
+            <VBox prefHeight="200.0" prefWidth="250.0" style="-fx-border-color: #cccccc#cccccc; -fx-background-radius: 5;">
+               <children>
+                  <VBox fx:id="iconbox1" alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+                     <children>
+                        <ImageView fx:id="imageId1" fitHeight="100.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true" />
+                     </children>
+                     <padding>
+                        <Insets bottom="10.0" top="10.0" />
+                     </padding></VBox>
+                  <VBox prefHeight="302.0" prefWidth="250.0">
+                     <children>
+                        <HBox fx:id="tempCol1" prefHeight="100.0" prefWidth="200.0" spacing="5.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="conditionCol1" prefHeight="100.0" prefWidth="200.0" spacing="5.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="windCol1" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="windtypeCol1" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="precipId1" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="clothingRec1" alignment="CENTER" prefHeight="210.0" prefWidth="221.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                           <children>
+                              <VBox alignment="CENTER" prefHeight="145.0" prefWidth="243.0">
+                                 <children>
+                                    <HBox fx:id="mensRec1" prefHeight="100.0" prefWidth="200.0" />
+                                    <HBox fx:id="womensRec1" prefHeight="100.0" prefWidth="200.0" />
+                                    <HBox fx:id="accRec1" prefHeight="100.0" prefWidth="243.0" />
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                     </children>
+                  </VBox>
+               </children>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </VBox>
+            <VBox prefHeight="200.0" prefWidth="250.0" style="-fx-border-color: #cccccc#cccccc;">
+               <children>
+                  <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+                     <children>
+                        <VBox prefHeight="200.0" prefWidth="100.0">
+                           <children>
+                              <ImageView fx:id="imageId2" fitHeight="100.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true" />
+                           </children>
+                        </VBox>
+                     </children>
+                     <padding>
+                        <Insets bottom="10.0" top="10.0" />
+                     </padding></HBox>
+                  <VBox prefHeight="335.0" prefWidth="178.0">
+                     <children>
+                        <HBox fx:id="tempCol2" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="conditionCol2" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="windCol2" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="windtypeCol2" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="precipId2" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="clothingRec2" prefHeight="210.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                           <children>
+                              <VBox prefHeight="142.0" prefWidth="241.0">
+                                 <children>
+                                    <HBox fx:id="mensRec2" prefHeight="100.0" prefWidth="208.0" />
+                                    <HBox fx:id="womensRec2" prefHeight="100.0" prefWidth="200.0" />
+                                    <HBox fx:id="accRec2" prefHeight="100.0" prefWidth="200.0" />
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                     </children>
+                  </VBox>
+               </children>
+            </VBox>
+            <VBox prefHeight="200.0" prefWidth="250.0" style="-fx-border-color: #cccccc#cccccc;">
+               <children>
+                  <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+                     <children>
+                        <ImageView fx:id="imageId3" fitHeight="100.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                           <HBox.margin>
+                              <Insets bottom="10.0" top="10.0" />
+                           </HBox.margin>
+                        </ImageView>
+                     </children></HBox>
+                  <VBox prefHeight="335.0" prefWidth="178.0">
+                     <children>
+                        <HBox fx:id="tempCol3" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="conditionCol3" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="windCol3" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="windtypeCol3" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="precipId3" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="clothingRec3" prefHeight="210.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                           <children>
+                              <VBox prefHeight="142.0" prefWidth="248.0">
+                                 <children>
+                                    <HBox fx:id="mensRec3" prefHeight="100.0" prefWidth="200.0" />
+                                    <HBox fx:id="womensRec3" prefHeight="100.0" prefWidth="200.0" />
+                                    <HBox fx:id="accRec3" prefHeight="100.0" prefWidth="200.0" />
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                     </children>
+                  </VBox>
+               </children>
+            </VBox>
+            <VBox prefHeight="200.0" prefWidth="250.0" style="-fx-border-color: #cccccc#cccccc;">
+               <children>
+                  <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+                     <children>
+                        <ImageView fx:id="imageId4" fitHeight="100.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                           <HBox.margin>
+                              <Insets />
+                           </HBox.margin>
+                        </ImageView>
+                     </children>
+                     <padding>
+                        <Insets bottom="10.0" top="10.0" />
+                     </padding></HBox>
+                  <VBox prefHeight="335.0" prefWidth="178.0">
+                     <children>
+                        <HBox fx:id="tempCol4" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="conditionCol4" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="windCol4" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="windtypeCol4" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="precipId4" prefHeight="100.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                        <HBox fx:id="clothingRec4" prefHeight="210.0" prefWidth="200.0">
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                           <children>
+                              <VBox prefHeight="142.0" prefWidth="243.0">
+                                 <children>
+                                    <HBox fx:id="mensRec4" prefHeight="100.0" prefWidth="200.0" />
+                                    <HBox fx:id="womensRec4" prefHeight="100.0" prefWidth="200.0" />
+                                    <HBox fx:id="accRec4" prefHeight="100.0" prefWidth="200.0" />
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                     </children>
+                  </VBox>
+               </children>
+            </VBox>
+         </children>
+         <opaqueInsets>
+            <Insets top="54.0" />
+         </opaqueInsets>
+      </HBox>
+      <HBox alignment="CENTER" layoutX="35.0" layoutY="147.0" prefHeight="29.0" prefWidth="1043.0" spacing="15.0">
+         <children>
+            <HBox fx:id="dateId1" alignment="CENTER" prefHeight="100.0" prefWidth="250.0" />
+            <HBox fx:id="dateId2" alignment="CENTER" prefHeight="41.0" prefWidth="250.0" />
+            <HBox fx:id="dateId3" alignment="CENTER" prefHeight="41.0" prefWidth="250.0" />
+            <HBox fx:id="dateId4" alignment="CENTER" prefHeight="41.0" prefWidth="250.0" />
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" layoutX="34.0" layoutY="189.0" prefHeight="29.0" prefWidth="1041.0" spacing="15.0">
+         <children>
+            <HBox fx:id="timeId1" alignment="CENTER" prefHeight="100.0" prefWidth="250.0" />
+            <HBox fx:id="timeId2" alignment="CENTER" prefHeight="100.0" prefWidth="250.0" />
+            <HBox fx:id="timeId3" alignment="CENTER" prefHeight="100.0" prefWidth="250.0" />
+            <HBox fx:id="timeId4" alignment="CENTER" prefHeight="100.0" prefWidth="250.0" />
+         </children>
+      </HBox>
+      <Label layoutX="10.0" layoutY="659.0" opacity="0.5" text="Værvarsel fra Yr levert av Meteorologisk institutt og NRK" textFill="#545454">
+         <font>
+            <Font size="10.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

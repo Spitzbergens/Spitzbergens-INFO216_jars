@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jena-cmds-3.6.0-sources">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/apache-jena-3.6.0/lib-src/jena-cmds-3.6.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/apache-jena-3.6.0/lib-src/jena-tdb-3.6.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/apache-jena-3.6.0/lib-src/jena-rdfconnection-3.6.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/apache-jena-3.6.0/lib-src/jena-arq-3.6.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/apache-jena-3.6.0/lib-src/jena-core-3.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
